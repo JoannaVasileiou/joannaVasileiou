@@ -43,7 +43,6 @@
   <i>🐉 Every bug is another enemy.</i><br>
   <i>⭐ Every commit gets me closer to the next level.</i>
 </p>
----
 
 ## 🌐 LINKS
 
@@ -58,10 +57,6 @@
 <p align="center">
   <b>┌─────────────────────────────────────┐</b><br>
   <b>│  GAME SAVED ✓                       │</b><br>
-  <b>│  Thanks for visiting my profile! 🎮 │</b><br>
+  <b>│  Thanks for visiting my profile!    │</b><br>
   <b>└─────────────────────────────────────┘</b>
-</p>
-
-<p align="center">
-  <i>↳ More projects. More experiments. More levels to unlock.</i>
 </p>
