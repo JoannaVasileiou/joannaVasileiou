@@ -7,7 +7,7 @@
 ║                                                              ║
 ║   PLAYER     : Joanna Vasileiou                              ║
 ║   CLASS      : Informatics & Computer Engineering            ║
-║   REGION     : Greece                                        ║                       ║
+║   REGION     : Greece                                        ║                       
 ║   STATUS     : Building • Learning • Exploring               ║
 ║                                                              ║
 ║                  [ ▶ PRESS START TO ENTER ]                  ║
